@@ -1,0 +1,13 @@
+{
+  "name": "my-media-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "yt-search": "^2.12.1"
+  }
+}
